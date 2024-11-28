@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cebe7d7c-5515-44dd-bb64-42f2cd5dce31" name="更改" comment="2024-11-28 15：33 提交" />
+    <list default="true" id="cebe7d7c-5515-44dd-bb64-42f2cd5dce31" name="更改" comment="2024-11-28 15：33 提交">
+      <changelist_data name="SakuraTang" email="836582531@qq.com" automatic="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +22,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="SakuraTang &lt;836582531@qq.com&gt;" />
+        <option value="HikigayaSakura" />
         <option value="SakuraTang" />
         <option value="唐樱 &lt;sakuratang@sakuramacbook-pro.local&gt;" />
       </list>
@@ -201,7 +205,7 @@
       <workItem from="1732606306052" duration="16000" />
       <workItem from="1732606325701" duration="157000" />
       <workItem from="1732624478325" duration="122000" />
-      <workItem from="1732624626310" duration="32797000" />
+      <workItem from="1732624626310" duration="33165000" />
     </task>
     <task id="LOCAL-00001" summary="2024-11-28 15：33 提交">
       <option name="closed" value="true" />
@@ -219,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732812884094</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2024-11-28 15：33 提交">
+      <option name="closed" value="true" />
+      <created>1732813177933</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732813177933</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
