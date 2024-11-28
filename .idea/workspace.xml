@@ -4,34 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cebe7d7c-5515-44dd-bb64-42f2cd5dce31" name="更改" comment="2024-11-28 15：33 提交">
-      <changelist_data name="唐樱" email="sakuratang@sakuramacbook-pro.local" automatic="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3/check_bool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3/if_nested.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3/pratice/guess_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter3/ternary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/for.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter4/while.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter1/hello.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter1/hello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/Input.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/Input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/Output.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/Output.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/Text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/Text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/comment.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/comment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/compareWith.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/compareWith.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/logic.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/logic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/operater.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/operater.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/practice/count_age.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/practice/count_age.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/practice/exchange.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/practice/exchange.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter2/practice/time.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter2/practice/time.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/check_userName.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/check_userName.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/if_condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/if_condition.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter3/if_else.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter3/if_else.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="cebe7d7c-5515-44dd-bb64-42f2cd5dce31" name="更改" comment="2024-11-28 15：33 提交" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,8 +20,8 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
-        <option value="唐樱 &lt;sakuratang@sakuramacbook-pro.local&gt;" />
         <option value="SakuraTang" />
+        <option value="唐樱 &lt;sakuratang@sakuramacbook-pro.local&gt;" />
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -228,8 +201,25 @@
       <workItem from="1732606306052" duration="16000" />
       <workItem from="1732606325701" duration="157000" />
       <workItem from="1732624478325" duration="122000" />
-      <workItem from="1732624626310" duration="32468000" />
+      <workItem from="1732624626310" duration="32797000" />
     </task>
+    <task id="LOCAL-00001" summary="2024-11-28 15：33 提交">
+      <option name="closed" value="true" />
+      <created>1732812806971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732812806971</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2024-11-28 15：33 提交">
+      <option name="closed" value="true" />
+      <created>1732812884094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732812884094</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
