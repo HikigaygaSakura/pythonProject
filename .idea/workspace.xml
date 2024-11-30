@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cebe7d7c-5515-44dd-bb64-42f2cd5dce31" name="更改" comment="2024-11-28 15：33 提交">
-      <changelist_data name="SakuraTang" email="836582531@qq.com" automatic="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/break_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/guess_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/loop_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/select_huose.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/theFlagGuess_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter4/theNewGuess_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter5/str_create.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +35,7 @@
         <option value="唐樱 &lt;sakuratang@sakuramacbook-pro.local&gt;" />
       </list>
     </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="SIGN_OFF_COMMIT" value="true" />
@@ -68,6 +76,7 @@
   "keyToString": {
     "Python.Input.executor": "Run",
     "Python.Output.executor": "Run",
+    "Python.break_loop.executor": "Run",
     "Python.check_bool.executor": "Run",
     "Python.check_userName.executor": "Run",
     "Python.comment.executor": "Run",
@@ -81,14 +90,20 @@
     "Python.if_else.executor": "Run",
     "Python.if_nested.executor": "Run",
     "Python.logic.executor": "Run",
+    "Python.loop_else.executor": "Run",
     "Python.multiple.executor": "Run",
     "Python.operater.executor": "Run",
+    "Python.select_huose.executor": "Run",
+    "Python.str_create.executor": "Run",
     "Python.ternary.executor": "Run",
+    "Python.theFlagGuess_number.executor": "Run",
+    "Python.theNewGuess_number.executor": "Run",
     "Python.time.executor": "Run",
     "Python.while.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/sakuratang/Project/python/pythonProject/chapter4",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -98,6 +113,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/chapter4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="comment" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -205,7 +228,7 @@
       <workItem from="1732606306052" duration="16000" />
       <workItem from="1732606325701" duration="157000" />
       <workItem from="1732624478325" duration="122000" />
-      <workItem from="1732624626310" duration="33165000" />
+      <workItem from="1732624626310" duration="39111000" />
     </task>
     <task id="LOCAL-00001" summary="2024-11-28 15：33 提交">
       <option name="closed" value="true" />
@@ -231,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732813177933</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2024-11-28 15：33 提交">
+      <option name="closed" value="true" />
+      <created>1732813922621</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732813922621</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -290,25 +321,31 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pythonProject$guess_number.coverage" NAME="guess_number 覆盖结果" MODIFIED="1732807506977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3/pratice" />
-    <SUITE FILE_PATH="coverage/pythonProject$Input.coverage" NAME="Input 覆盖结果" MODIFIED="1732635746770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
-    <SUITE FILE_PATH="coverage/pythonProject$time.coverage" NAME="time 覆盖结果" MODIFIED="1732684803067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2/practice" />
+    <SUITE FILE_PATH="coverage/pythonProject$guess_number.coverage" NAME="guess_number 覆盖结果" MODIFIED="1732958123451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
     <SUITE FILE_PATH="coverage/pythonProject$compareWith.coverage" NAME="compareWith 覆盖结果" MODIFIED="1732685563447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/pythonProject$exchange.coverage" NAME="exchange 覆盖结果" MODIFIED="1732672196165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2/practice" />
-    <SUITE FILE_PATH="coverage/pythonProject$comment.coverage" NAME="comment 覆盖结果" MODIFIED="1723702854458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/pythonProject$operater.coverage" NAME="operater 覆盖结果" MODIFIED="1732638096438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/pythonProject$if_condition.coverage" NAME="if_condition 覆盖结果" MODIFIED="1732776587657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
+    <SUITE FILE_PATH="coverage/pythonProject$break_loop.coverage" NAME="break_loop 覆盖结果" MODIFIED="1732958363487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
+    <SUITE FILE_PATH="coverage/pythonProject$select_huose.coverage" NAME="select_huose 覆盖结果" MODIFIED="1732958622618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
+    <SUITE FILE_PATH="coverage/pythonProject$multiple.coverage" NAME="multiple 覆盖结果" MODIFIED="1732811130704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
+    <SUITE FILE_PATH="coverage/pythonProject$theNewGuess_number.coverage" NAME="theNewGuess_number 覆盖结果" MODIFIED="1732959346622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
+    <SUITE FILE_PATH="coverage/pythonProject$if_nested.coverage" NAME="if_nested 覆盖结果" MODIFIED="1732805584284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
+    <SUITE FILE_PATH="coverage/pythonProject$while.coverage" NAME="while 覆盖结果" MODIFIED="1732808816565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
+    <SUITE FILE_PATH="coverage/pythonProject$str_create.coverage" NAME="str_create 覆盖结果" MODIFIED="1732986945408" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter5" />
+    <SUITE FILE_PATH="coverage/pythonProject$Input.coverage" NAME="Input 覆盖结果" MODIFIED="1732635746770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
+    <SUITE FILE_PATH="coverage/pythonProject$time.coverage" NAME="time 覆盖结果" MODIFIED="1732684803067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2/practice" />
+    <SUITE FILE_PATH="coverage/pythonProject$comment.coverage" NAME="comment 覆盖结果" MODIFIED="1723702854458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/pythonProject$check_userName.coverage" NAME="check_userName 覆盖结果" MODIFIED="1732779569587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
+    <SUITE FILE_PATH="coverage/pythonProject$theFlagGuess_number.coverage" NAME="theFlagGuess_number 覆盖结果" MODIFIED="1732959263241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
     <SUITE FILE_PATH="coverage/pythonProject$count_age.coverage" NAME="count_age 覆盖结果" MODIFIED="1732635971835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2/practice" />
     <SUITE FILE_PATH="coverage/pythonProject$if_else.coverage" NAME="if_else 覆盖结果" MODIFIED="1732775857990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
+    <SUITE FILE_PATH="coverage/pythonProject$loop_else.coverage" NAME="loop_else 覆盖结果" MODIFIED="1732959724940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
     <SUITE FILE_PATH="coverage/pythonProject$check_bool.coverage" NAME="check_bool 覆盖结果" MODIFIED="1732807188187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
-    <SUITE FILE_PATH="coverage/pythonProject$multiple.coverage" NAME="multiple 覆盖结果" MODIFIED="1732811130704" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
     <SUITE FILE_PATH="coverage/pythonProject$logic.coverage" NAME="logic 覆盖结果" MODIFIED="1732758755406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/pythonProject$Output.coverage" NAME="Output 覆盖结果" MODIFIED="1732634943019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter2" />
     <SUITE FILE_PATH="coverage/pythonProject$for.coverage" NAME="for 覆盖结果" MODIFIED="1732810763447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
-    <SUITE FILE_PATH="coverage/pythonProject$if_nested.coverage" NAME="if_nested 覆盖结果" MODIFIED="1732805584284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
     <SUITE FILE_PATH="coverage/pythonProject$hello.coverage" NAME="hello 覆盖结果" MODIFIED="1732624904849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter1" />
-    <SUITE FILE_PATH="coverage/pythonProject$while.coverage" NAME="while 覆盖结果" MODIFIED="1732808816565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter4" />
     <SUITE FILE_PATH="coverage/pythonProject$ternary.coverage" NAME="ternary 覆盖结果" MODIFIED="1732806408885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chapter3" />
   </component>
 </project>
